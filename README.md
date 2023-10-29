@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudipta Kumar Sarkar</h1>
 <h3 align="center">A passionate AI Researcher/Engineer</h3>
 <img align="right" alt="GANs" width="400" src="A56M.gif">
-
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudiptakrsarkarai&label=Profile%20views&color=0e75b6&style=flat" alt="sudiptakrsarkarai" /> </p>
 
 - 🔭 I’m currently working on **Deep Learning**
