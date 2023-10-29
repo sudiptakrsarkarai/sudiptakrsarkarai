@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sudipta kumar sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudipta kumar sarkar" height="30" width="40" /></a>
 </p>
+<br>
 <img align="right" alt="GANs" width="400" src="PJtm.gif">
 
 <h3 align="left">Languages and Tools:</h3>
