@@ -15,10 +15,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/sudiptakrsarkarai?tab=repositories](https://github.com/sudiptakrsarkarai?tab=repositories)
 
 - 📫 How to reach me **sudeeptasarkar780@gmail.com**
-  
-<p align="left"> <img src="fxac.gif"> </p>
+
 <br>
-<img align="right" alt="GANs" width="400" src="PJtm.gif">
+<img align="left" alt="GANs" width="400" src="PJtm.gif">
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
