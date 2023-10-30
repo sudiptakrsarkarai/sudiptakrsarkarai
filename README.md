@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **LLM, Transformer, Computer Vision**
 
-- 👯 I’m looking to collaborate on **GANs/VAE and DaGANs**
+- 👯 I’m looking to collaborate on **GANs/VAE and DCGANs**
 
 - 🤝 I’m looking for help with **GANs/VAE and DaGANs**
 
